@@ -18,6 +18,10 @@ People sometimes ask me “what’s a good library for \_\_\_\_\_\_?” and I�
 
 - [**Vest**](https://github.com/ealush/vest): 0-dep form validation inspired by unit test syntax
 
+## 🚈 Event handling
+
+- [**tinykeys**](https://github.com/jamiebuilds/tinykeys): A tiny (~400 B) & modern library for keybindings
+
 ## 🏃🏽‍♀️ Runtime
 
 - [**Deno**](https://github.com/denoland/deno): New JS + TS runtime from the original creator of Node
